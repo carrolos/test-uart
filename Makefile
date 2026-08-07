@@ -1,5 +1,5 @@
 # project source
-PROJ_SRC := output-test-0-hello.c
+PROJ_SRC := 0-indefinite-hello.c
 
 # sets objs as the default directory for objects and creates it if
 # it doesn't already exist
