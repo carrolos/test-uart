@@ -1,6 +1,6 @@
 # project source
 PROJ_SRC := 0-indefinite-hello.c 1-check-formats.c 2-bulk-transfer.c
-PROJ_SRC += 3-char-echo.c 4-pi-echo.c
+PROJ_SRC += 3-char-echo.c 4-pi-echo.c 5-countdown-blink.c
 
 # sets objs as the default directory for objects and creates it if
 # it doesn't already exist
