@@ -10,3 +10,4 @@ kernel.img
 # misc
 tags
 .DS_Store
+*.swp
