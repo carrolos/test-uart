@@ -1,0 +1,12 @@
+# build artifacts
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.list
+kernel.img
+
+# misc
+tags
+.DS_Store
